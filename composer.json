@@ -1,0 +1,19 @@
+{
+    "name": "emiliovargasmillan/tempoconv",
+    "description": "prueba de creación paquete composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Emiliovargasmillan\\Tempoconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emilio Vargas Millan",
+            "email": "emiliovm@outlook.es"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
