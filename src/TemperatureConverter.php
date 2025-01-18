@@ -1,6 +1,6 @@
 <?php
 
-namespace RexfordnyrkTempconv;
+namespace Emiliovargasmillan\Tempoconv;
 
 use InvalidArgumentException;
 
